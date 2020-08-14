@@ -9,4 +9,14 @@ module Memorable
     self.all.count
   end
 end
+
+module InstaceMethods
+  def initialize
+    
+  end
+end
+
+
+
+
 end
